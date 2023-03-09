@@ -1,0 +1,11 @@
+df0 = extract() 
+df0.head() 
+ 
+
+         Name	                                   Market Cap (US$ Billion) 
+
+0	JPMorgan Chase	                            390.934
+1	Industrial and Commercial Bank of China	    345.214
+2	Bank of America	                            325.331
+3	Wells Fargo	                            308.013
+4	China Construction Bank	                    257.399
